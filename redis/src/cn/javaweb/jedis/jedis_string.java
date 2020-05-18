@@ -1,4 +1,4 @@
-package cn.javaweb;
+package cn.javaweb.jedis;
 
 import redis.clients.jedis.Jedis;
 
